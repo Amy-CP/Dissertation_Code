@@ -1,7 +1,7 @@
 # ========================================================================
 # FINAL SDM CODE: Willow Warbler 2000 → 2020 Projection
 # Author: Amy Cockburn-Pittner
-# Description: Train model using 1998–2000 WorldClim data: project to 2005,2010,2015 CHELSA climate
+# Description: Train model using 1998–2000 WorldClim data: project to 2005,2010,2015 and 2020 CHELSA climate
 # ========================================================================
 
 # ========================
